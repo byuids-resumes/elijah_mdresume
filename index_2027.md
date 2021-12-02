@@ -1,8 +1,8 @@
 ---
 layout: resume
-title: Elijah Nunez' Resume
+title: Brigham Young's Resume
 ---
-# Elijah Nunez
+# Brigham Young
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">

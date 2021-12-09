@@ -3,7 +3,7 @@ layout: cv
 title: Elijah Nunez' Resume
 ---
 # Elijah Nunez
-BYU-Idaho Junior studying Computer Science and Software Programming.
+BYU-Idaho Junior studying Computer Science and Software Programming
 
 <div id="webaddress">
 <a href="elijahnunez728@gmail.com">elijahnunez728@gmail.com</a>

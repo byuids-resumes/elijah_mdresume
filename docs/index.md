@@ -29,14 +29,17 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `April 2021 - Present`
 __Brigham Young University-Idaho__, Math and Computer Science
 
-- Provided in-person and remote instruction to various students of differing math courses and object-oriented programming skills. Addressed areas of improvement for students and provided lesson plans to keep said students on track.
+- Provided in-person and remote instruction to various students of differing math courses and object-oriented programming skills. 
+- Addressed areas of improvement for students and provided lesson plans to keep said students on track.
 
 ### Central Operations Associate
 
 `April 2020 - January 2021`
 __Amazon__
 
-- Managed manual route assignment for delivery routes and drivers, assisted Whole Foods sites and dispatch supervisors to follow up with driver assignments, and oversaw driver and order capacity for U.S. and international Whole Foods sites. 
+- Managed manual route assignment for delivery routes and drivers. 
+- Assisted Whole Foods sites and dispatch supervisors to follow up with driver assignments.
+- Oversaw driver and order capacity for U.S. and international Whole Foods sites. 
 
 ### Library Page
 
